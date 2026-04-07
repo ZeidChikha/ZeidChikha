@@ -19,6 +19,7 @@ Peace be upon you! I'm Zeid, a Software Engineer and Full Stack Web Developer. T
   <li>C++ programming fundamentals</li>
   <li>Essential basics for every programmer</li>
   <li>Algorithms and problem-solving</li>
+ <li>Git&Githup</li>
 </ul>
 </p>
 
